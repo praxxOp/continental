@@ -4,7 +4,7 @@ const page = () => {
   return (
     <div>
     <nav>
-      praxx
+      continental
     </nav>
     </div>
   )
