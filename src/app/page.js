@@ -4,7 +4,9 @@ const page = () => {
   return (
     <div>
     <nav>
-      praxx
+    <div id='navbar' >
+      
+    </div>
     </nav>
     </div>
   )
