@@ -5,7 +5,7 @@ const page = () => {
     <div>
     <nav>
     <div id='navbar' >
-      praxx
+      hi
     </div>
     </nav>
     </div>
