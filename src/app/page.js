@@ -5,7 +5,7 @@ const page = () => {
     <div>
     <nav>
     <div id='navbar' >
-      next.js
+      react
     </div>
     </nav>
     </div>
