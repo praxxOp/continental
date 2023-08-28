@@ -5,7 +5,7 @@ const page = () => {
     <div>
     <nav>
     <div id='navbar' >
-     hi iam continenteal
+    hi i am robot
     </div>
     </nav>
     </div>
