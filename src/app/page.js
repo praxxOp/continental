@@ -5,8 +5,8 @@ const page = () => {
     <div>
     <nav>
     <div id='navbar' >
-   praxx
    
+
     </div>
     </nav>
     </div>
