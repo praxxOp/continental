@@ -5,7 +5,8 @@ const page = () => {
     <div>
     <nav>
     <div id='navbar' >
-    hi i am robot
+   praxx
+   
     </div>
     </nav>
     </div>
