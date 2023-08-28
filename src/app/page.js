@@ -5,7 +5,7 @@ const page = () => {
     <div>
     <nav>
     <div id='navbar' >
-      react
+     hi iam continenteal
     </div>
     </nav>
     </div>
